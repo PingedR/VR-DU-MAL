@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Catch : MonoBehaviour
 {
+    Counter counter;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        counter = FindObjectOfType<Counter>();
     }
 
     // Update is called once per frame
@@ -22,6 +24,7 @@ public class Catch : MonoBehaviour
         {
             //collision.gameObject.SetActive(false);
             Debug.Log("Family");
+            counter.IncrementContador();
         }
    
     } 
