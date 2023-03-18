@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Family guy full episode.unity
+    guid: 286af9e064b081c4fafbb698f7f6d93d
   m_configObjects: {}

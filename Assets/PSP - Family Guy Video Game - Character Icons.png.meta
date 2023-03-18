@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 3cbb76c19cd8298418537b4de6961487
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6669274252514303238
+    second: PSP - Family Guy Video Game - Character Icons_0
+  - first:
+      213: 8968589537443815467
+    second: PSP - Family Guy Video Game - Character Icons_1
+  - first:
+      213: 3337045566615756607
+    second: PSP - Family Guy Video Game - Character Icons_2
+  - first:
+      213: -2909186411149348535
+    second: PSP - Family Guy Video Game - Character Icons_3
+  - first:
+      213: -3826422073680683133
+    second: PSP - Family Guy Video Game - Character Icons_4
+  - first:
+      213: -31437530264978380
+    second: PSP - Family Guy Video Game - Character Icons_5
+  - first:
+      213: -5497666210189945956
+    second: PSP - Family Guy Video Game - Character Icons_6
+  - first:
+      213: -1065649147722729443
+    second: PSP - Family Guy Video Game - Character Icons_7
+  - first:
+      213: -3255471172179345031
+    second: PSP - Family Guy Video Game - Character Icons_8
+  - first:
+      213: -6929968091555725138
+    second: PSP - Family Guy Video Game - Character Icons_9
+  - first:
+      213: 515507833818596523
+    second: PSP - Family Guy Video Game - Character Icons_10
+  - first:
+      213: 7002139908951094083
+    second: PSP - Family Guy Video Game - Character Icons_11
+  - first:
+      213: -3687069138698585103
+    second: PSP - Family Guy Video Game - Character Icons_12
+  - first:
+      213: 2168914668940939409
+    second: PSP - Family Guy Video Game - Character Icons_13
+  - first:
+      213: -3236385182379562405
+    second: PSP - Family Guy Video Game - Character Icons_14
+  - first:
+      213: -3615594634087224687
+    second: PSP - Family Guy Video Game - Character Icons_15
+  - first:
+      213: -4953289293673426831
+    second: PSP - Family Guy Video Game - Character Icons_16
+  - first:
+      213: -6170508007085810385
+    second: PSP - Family Guy Video Game - Character Icons_17
+  - first:
+      213: 6921859340540741337
+    second: PSP - Family Guy Video Game - Character Icons_18
+  - first:
+      213: -3196250513905255000
+    second: PSP - Family Guy Video Game - Character Icons_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e935176af173a0800000000000000
+      internalID: -6669274252514303238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20af9baaa4d67c70800000000000000
+      internalID: 8968589537443815467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 196
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9c6d23419f4e20800000000000000
+      internalID: 3337045566615756607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941bc026f5e70a7d0800000000000000
+      internalID: -2909186411149348535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 194.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f9c81b561d5eac0800000000000000
+      internalID: -3826422073680683133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb0f79bbf409ff0800000000000000
+      internalID: -31437530264978380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d5ffa5bd54b3b0800000000000000
+      internalID: -5497666210189945956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f9c60fbd0631f0800000000000000
+      internalID: -1065649147722729443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c9b5973e32d2d0800000000000000
+      internalID: -3255471172179345031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 130.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0870ebcbec3df90800000000000000
+      internalID: -6929968091555725138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba440b1c4a3772700800000000000000
+      internalID: 515507833818596523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343bd94f5299c2160800000000000000
+      internalID: 7002139908951094083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb09d3726e4dcc0800000000000000
+      internalID: -3687069138698585103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190db566668891e10800000000000000
+      internalID: 2168914668940939409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 66.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aadefd2dc0613d0800000000000000
+      internalID: -3236385182379562405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a2c6726d3d2ddc0800000000000000
+      internalID: -3615594634087224687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17099dc81a1624bb0800000000000000
+      internalID: -4953289293673426831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d52f909a3fd5aa0800000000000000
+      internalID: -6170508007085810385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2.25
+        width: 64.8
+        height: 64.75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6862a85626f0060800000000000000
+      internalID: 6921859340540741337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PSP - Family Guy Video Game - Character Icons_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad74819713a4a3d0800000000000000
+      internalID: -3196250513905255000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
